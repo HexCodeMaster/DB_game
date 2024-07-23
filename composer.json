@@ -1,0 +1,20 @@
+{
+    "name": "natiabraha/oopdb-main",
+    "autoload": {
+        "psr-4": {
+            "Mastermind\\": "src/",
+            "Natiabraha\\OopdbMain\\": "src/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathanial01",
+            "email": "144017034+Nathanial01@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "smarty/smarty": "^5.1"
+    }
+}
